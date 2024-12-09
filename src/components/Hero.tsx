@@ -33,7 +33,7 @@ const Hero = () => {
   </div>
 
   <div className="text-gray-600 body-font">
-      <h1 className='ml-20' font-bold>
+      <h1 className='ml-20 font-bold'>
         Featured
       </h1>
   <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
